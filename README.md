@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sosudo" alt="sosudo" /></a> </p>
 
-- 🔭 I’m currently working on **S-OS**
+- 🔭 I’m currently working on **Madoka Amano**
 
 - 🌱 I’m currently learning **Competitive Programming**
 
-- 👯 I’m looking to collaborate on **a Schoology replacement**
+- 👯 I’m looking to collaborate on **All of the Math**
 
 - 🤝 I’m looking for help with **life**
 
-- 👨‍💻 All of my projects are available at [https://clarityio.ml](https://clarityio.ml)
+- 👨‍💻 All of my projects are available at [https://s-os.dev](https://s-os.dev)
 
-- 📝 I regularly write articles on [https://clarityio.ml](https://clarityio.ml)
+- 📝 I regularly write articles on [https://s-os.dev](https://s-os.dev)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **shivansh.gour90@gmail.com**
 
-- 📄 Know about my experiences [https://clarityio.ml](https://clarityio.ml)
+- 📄 Know about my experiences [https://s-os.dev](https://s-os.dev)
 
 - ⚡ Fun fact **I broke my head when I was 4, that's why I'm weird!**
 
